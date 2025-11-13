@@ -1,6 +1,6 @@
 - 🌱 Aprendendo desenvolvimento web na Labenu / Currently learning web development on Labenu
 
-## Hey there! I'm Caio Chamarelli, web development student on Labenu
+## Hey there! I'm Caio Chamarelli, web developer
 <div align="center">
   <a href="https://github.com/Caio-Chamarelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Chamarelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
