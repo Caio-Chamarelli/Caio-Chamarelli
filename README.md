@@ -1,4 +1,4 @@
-- 🌱 Aprendendo desenvolvimento web na Labenu / Currently learning web development on Labenu
+- 🌱 Aprendendo desenvolvimento web / Currently learning web development
 
 ## Hey there! I'm Caio Chamarelli, web developer
 <div align="center">
